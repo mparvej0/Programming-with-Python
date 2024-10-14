@@ -7,3 +7,4 @@ print(17*13)
 
 a = "Raju"
 print(a)
+print("New")
