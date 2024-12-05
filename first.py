@@ -1,10 +1,5 @@
-# Numeric code write a = 3 
-# But text code write a = "Raju"
-print("Hello World", 7)
-print(5)
-print("Bye")
-print(17*13)
-
-a = "Raju"
-print(a)
-print("New-version")
+print("Hello World")
+print("Mr. Raju")
+print("Raju is my name.", "My age is 20.")
+print(21)
+print(35+23)
