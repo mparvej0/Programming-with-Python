@@ -29,6 +29,6 @@ print(student.get("name"))
 
 student.update({"City" : "Delhi"})
             #OR
-new_dict = {"City" : "Delhi"}
+new_dict = {"City" : "Delhi", "name" : "Nahomi", "age" : 21}
 student.update(new_dict)
 print(student)
