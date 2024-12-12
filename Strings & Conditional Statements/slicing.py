@@ -16,4 +16,4 @@ print(str4[1:len(str4)])
 
 #Negative Slicing
 str5 = "Apple"
-print(str5[-3:-2])
+print(str5[-3:-1])
