@@ -19,3 +19,11 @@ f2.close()
 f3 = open("demo.txt", "w") #change data
 f3.write("I want to learn Java tomorrow. 123")
 f3.close()
+
+f5 = open("demo.txt", "a")
+f5.write("Then I'll move to ReatJS") #add data
+f5.write("\nAfter that nodejs") #add data in next line
+f5.close()
+
+f6 = open("sample.txt", "w") #create a sample file
+f6.close()
